@@ -1,0 +1,8 @@
+gym
+atari-py
+keras
+matplotlib
+pillow
+tensorflow
+numpy
+pynput

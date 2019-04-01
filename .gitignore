@@ -1,0 +1,4 @@
+.venv
+**/*.kbooth-desktop
+.idea
+**/__pycache__
